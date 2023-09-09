@@ -1,5 +1,5 @@
 # SmallGPT
-Building a small GPT from [source](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=19s&ab_channel=AndrejKarpathy)
+I have developed a compact GPT model capable of predicting subsequent words from input sequences, drawing inspiration from [Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=19s&ab_channel=AndrejKarpathy)
 
 ## Contents:
 1. Learn the encode-decode technique by character level
